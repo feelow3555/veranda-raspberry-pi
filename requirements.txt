@@ -1,0 +1,20 @@
+# MQTT 통신
+paho-mqtt==1.6.1
+
+# GPIO 제어
+RPi.GPIO
+
+# 센서 라이브러리
+adafruit-circuitpython-htu21d
+adafruit-blinka
+busio
+
+# ADC (MCP3008, MCP3202)
+Adafruit-MCP3008
+spidev
+
+# 카메라
+picamera2
+
+# 유틸리티
+python-dateutil
