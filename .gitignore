@@ -1,29 +1,29 @@
 # 가상환경
-venv/
-env/
+# venv/
+# env/
 
 # Python 캐시
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
+# __pycache__/
+# *.pyc
+# *.pyo
+# *.pyd
 
 # 환경 변수
-.env
-.env.local
+# .env
+# .env.local
 
 # 이미지 파일 (용량 큼)
-images/*.jpg
-images/*.png
-images/*.jpeg
+# images/*.jpg
+# images/*.png
+# images/*.jpeg
 
 # IDE 설정
-.vscode/
-.idea/
+# .vscode/
+# .idea/
 
 # OS 파일
-.DS_Store
-Thumbs.db
+# .DS_Store
+# Thumbs.db
 
 # 로그
-*.log
+# *.log

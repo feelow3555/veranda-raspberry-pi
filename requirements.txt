@@ -13,8 +13,11 @@ busio
 Adafruit-MCP3008
 spidev
 
-# 카메라
-picamera2
+# CO2 센서 (UART 통신)
+pyserial
+
+# 카메라 (USB 카메라 - APC850)
+opencv-python
 
 # 유틸리티
 python-dateutil
